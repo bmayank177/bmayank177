@@ -2,8 +2,11 @@
 # Hi, I'm Mayank 
 
 🎓 B.Tech AI/ML Student
+
 🤖 Interested in Machine Learning, Deep Learning, and AI Agents
+
 🐍 Python | PyTorch | TensorFlow | FastAPI | JAVA
+
 📍 India
 
 ## 💻 Tech Stack
