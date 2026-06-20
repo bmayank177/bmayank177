@@ -28,7 +28,7 @@
 
 - ## Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/bmayank177)
-[email] (bmayank177@gmail.com)
+[![Email](https://img.shields.io/badge/Email-bmayank177%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmayank177@gmail.com)
 
 
   ## 🏆 Certifications
